@@ -1,0 +1,44 @@
+[
+  {
+    "title": "La Reina del Sur 3",
+    "id": "La+Reina+del+Sur+3+Temporada",
+    "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOD32xrxr4Tb1b3DeK9al3o9wOG_CgwAhRS4x_I5d1FiHV0qwE",
+    "banner": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2019%2F03%2Fla-reina.jpg"
+  },
+  {
+    "title": "Leandro Díaz",
+    "id": "Leandro+Diaz",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/Leandro_D%C3%ADaz_tv_series_poster.jpg",
+    "banner": "https://cloudfront-us-east-1.images.arcpublishing.com/semana/FZW7ATK2NFCAJDDAXVHGYYH5WU.png"
+  },
+  {
+    "title": "El Señor de los Cielos 7 ",
+    "id": "El+Señor+de+los+Cielos+7+Temporada",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+    "banner": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/el-senor-de-los-cielos-temporada-7-estreno-17-enero-2023-telemundo-1ecc8b.jpg"
+  },
+  {
+    "title": "Corona de lágrimas 2",
+    "id": "novelas",
+    "poster": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2022%2F08%2F01%2FVictoria-Ruffo.jpg",
+    "banner": "https://www.gannett-cdn.com/presto/2022/08/29/PPHXS/fe263074-4414-4d25-b298-fec53ce6a06e-victoria_ruffo.jpg?auto=webp&crop=1460,822,x0,y0&format=pjpg&width=1200"
+  },
+  {
+    "title": "Cabo",
+    "id": "Cabo",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg",
+    "banner": "https://www.themoviedb.org/t/p/original/iFomjNTn7faJD14ULghx3pTrCOd.jpg"
+  },
+  {
+    "title": "Entre Sombras ",
+    "id": "Entre+Sombras",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tqRVViOnRa6tUKxdl9N5eIh23p.jpg",
+    "banner": "https://www.themoviedb.org/t/p/original/6dwjTgrGat2QzZ0Jm2s4PSin0b1.jpg"
+  },
+  {
+    "title": "Mi Secreto",
+    "id": "Mi+secreto",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v4lRzvk5eTtSStoRoihd6KsWfVh.jpg",
+    "banner": "https://www.terra.com.mx/u/fotografias/m/2022/9/12/f608x342-51549_81272_0.jpg"
+  }
+]

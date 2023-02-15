@@ -1,0 +1,16 @@
+import firebase from "expo-firebase-messaging";
+
+// Crea un mensaje de notificación con una imagen
+const message = {
+  notification: {
+    title: "Nueva actualización disponible",
+    body: "Hola, hay una nueva actualización disponible para tu aplicación. Haz clic aquí para instalarla.",
+    image: "https://www.example.com/image.png",
+  },
+  tokens: tokens,
+};
+
+// Envía la notificación a tus usuarios a través de FCM
+const response = await firebase.messaging().sendMulticast(message);
+console.log(`Mensaje enviado a ${response.successCount} dispositivos`);
+console.log(`Mensaje no enviado a ${response.failureCount} dispositivos debido a errores`);
